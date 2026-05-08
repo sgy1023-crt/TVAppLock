@@ -2,7 +2,6 @@
 
 [![Android](https://img.shields.io/badge/Android-7.0%2B-brightgreen)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9-blue)](https://kotlinlang.org)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 一款专为 **Android TV / 电视盒子** 设计的应用锁。**免 Root，无需 ADB，不依赖悬浮窗权限**，仅通过无障碍服务 (AccessibilityService) 实现对任意应用的锁定保护。
 
